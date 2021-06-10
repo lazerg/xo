@@ -1,0 +1,57 @@
+main {
+    position: relative;
+    background: #D7E6E9;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.status {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    color: #0D3C3F;
+}
+
+.container {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background: #91BBC4;
+    border: 1px solid #174C57;
+    box-sizing: border-box;
+
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board {
+    width: 450px;
+    height: 450px;
+    background: #91BBC4;
+    border: 1px solid #174C57;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell {
+    width: 150px;
+    height: 150px;
+    background: #9CD8E4;
+    border: 1px solid #174C57;
+    box-sizing: border-box;
+
+    font-size: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Architects Daughter, sans-serif;
+}
