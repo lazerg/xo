@@ -1,18 +1,18 @@
-#O'yinda ishlatilgan materiallar:
+# O'yinda ishlatilgan materiallar:
 
-###Github repository:
+### Github repository:
 🔧 https://github.com/lazerg/xo
 
-###Figma design:
+### Figma design:
 🔧 https://www.figma.com/file/Og9BPmoDnMeFaAnm7Yv7iB/X-O-Game
 
-###Download Visual Studio Code
+### Download Visual Studio Code
 🔧 http://code.visualstudio.com/
 
-##Men ijtimoiy tarmoqlarda:
+## Men ijtimoiy tarmoqlarda:
 
-###Telegram blog
+### Telegram blog
 🔗 https://t.me/lazerg
 
-###Instagram page
+### Instagram page
 🔗 https://instagram.com/_lazerg_
