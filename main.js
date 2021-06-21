@@ -19,7 +19,7 @@ const winLines = [
 
     // diagonal
     [ 0, 4, 8 ],
-    [ 2, 1, 6 ],
+    [ 2, 4, 6 ],
 ];
 
 const checkWin = () => {
